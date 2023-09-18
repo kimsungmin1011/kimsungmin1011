@@ -96,7 +96,7 @@
     
 - **[ 모의 투자 프로젝트 with django ](https://github.com/kimsungmin1011/shinhan-alpha)**
     
-    신한투자증권에서 Django, vue.js 를 이용하여 모의 투자 MTS(모바일트레이딩시스템)를 개발해 보고, 종목간 위험률 측정을 통한 포트폴리오 고도화 기능을 추가해보았다.
+    신한투자증권에서 Django, Vue.js 를 이용하여 모의 투자 MTS(모바일트레이딩시스템)를 개발해 보고, 종목간 위험률 측정을 통한 포트폴리오 고도화 기능을 추가해보았다.
     
     기술스택 : Django, vue.js, docker, google cloud
     
