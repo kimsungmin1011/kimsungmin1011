@@ -75,7 +75,7 @@
     
     기술스택 : React , Spring
     
-    [배포 LINK] : [신대홍 서경강 4팀](http://shindaehong.com/)
+    [배포 LINK] : [신대홍 서경강 4팀](http://shindaehong.com/)**
   
     
 - **[ 멋쟁이농부처럼 ](https://github.com/kimsungmin1011/Like_Farmers)**
