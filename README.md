@@ -65,8 +65,8 @@
 
 - **[ 신한투자증권 MTS 프로젝트 ](https://github.com/kimsungmin1011/shinhan-alpha)**
     
-    신한투자증권 프로 디지털 아카데미에서 주식 거래 시스템 MTS(모바일트레이딩시스템)를 개발하였다. 또한 예상 배당금 알림 기능과 CAPM 모델을 활용한 기대수익률 계산으로 종목간 위험률 측정을 구현한 포트폴리오 기능을 추가하였다.
-    Django와 Spring Boot 2가지 버전으로 개발하였다.
+    신한투자증권 프로 디지털 아카데미에서 주식 거래 시스템 MTS(모바일트레이딩시스템)를 개발하였다. 또한 예상 배당금 알림 기능과 CAPM 모델을 활용한 기대수익률 계산으로 종목간 위험률 측정을 구현한 포트폴리오
+    기능을 추가하였다. Django와 Spring Boot 2가지 버전으로 개발하였다.
     기술스택 : Spring, Spring Boot, Django, React, AWS ELB, MySQL, Docker, Google Cloud Platform, Git
 
 
