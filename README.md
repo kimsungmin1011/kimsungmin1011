@@ -67,12 +67,14 @@
     
     신한투자증권 프로 디지털 아카데미에서 주식 거래 시스템 MTS(모바일트레이딩시스템)를 개발하였다. 또한 예상 배당금 알림 기능과 CAPM 모델을 활용한 기대수익률 계산으로 종목간 위험률 측정을 구현한 포트폴리오
     기능을 추가하였다. Django와 Spring Boot 2가지 버전으로 개발하였다.
+  
     기술스택 : Spring, Spring Boot, Django, React, AWS ELB, MySQL, Docker, Google Cloud Platform, Git
 
 
 - **[ 경제뉴스 세줄 요약 AI 프로젝트 ]**
     
     경제뉴스의 방대한 정보량으로 인해 필요한 정보를 찾는 데 어려움을 겪는 개미 투자자들을 위해 CLOVA Summary를 통해 뉴스를 빠르게 확인할 수 있는 서비스인 '경제뉴스 세줄 요약' AI 프로젝트를 진행하였다.
+  
     기술스택 : Spring, Spring Boot, Django, React, AWS ELB, MySQL, Docker, Google Cloud Platform, Git
 
     
