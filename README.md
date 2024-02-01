@@ -90,7 +90,7 @@
     
     내용 : 이 프로젝트는 신대홍 서경강 4팀의 활동 내역을 홍보하기 위해 개발하였다. React를 이용하여 웹사이트의 뼈대를 개발하였으며, Spring를 이용해 방명록 기능을 구현하였다.
     
-    기술스택 : Spring Boot, React, MySQL, AWS, Git
+    기술스택 : Spring Boot, React, MySQL, AWS, Git
     
     [배포 LINK] : [신대홍 서경강 4팀](http://shindaehong.com/)
   
