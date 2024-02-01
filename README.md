@@ -62,7 +62,28 @@
 ## **🎁 Project**
 
 ---
+
+- **[ 신한투자증권 MTS 프로젝트 ](https://github.com/kimsungmin1011/shinhan-alpha)**
     
+    신한투자증권 프로 디지털 아카데미에서 주식 거래 시스템 MTS(모바일트레이딩시스템)를 개발하였다. 또한 예상 배당금 알림 기능과 CAPM 모델을 활용한 기대수익률 계산으로 종목간 위험률 측정을 구현한 포트폴리오 기능을 추가하였다.
+    Django와 Spring Boot 2가지 버전으로 개발하였다.
+    기술스택 : Spring, Spring Boot, Django, React, AWS ELB, MySQL, Docker, Google Cloud Platform, Git
+
+
+- **[ 경제뉴스 세줄 요약 AI 프로젝트 ]**
+    
+    경제뉴스의 방대한 정보량으로 인해 필요한 정보를 찾는 데 어려움을 겪는 개미 투자자들을 위해 CLOVA Summary를 통해 뉴스를 빠르게 확인할 수 있는 서비스인 '경제뉴스 세줄 요약' AI 프로젝트를 진행하였다.
+    기술스택 : Spring, Spring Boot, Django, React, AWS ELB, MySQL, Docker, Google Cloud Platform, Git
+
+    
+- **[ 멋쟁이농부처럼 ](https://github.com/kimsungmin1011/Like_Farmers)**
+    
+    내용 : 이 프로젝트는 멋쟁이사자처럼 중앙 해커톤에서, 농민들의 경제적 자립을 위한 농민판 Linkedin을 개발하자는 아이디어에서 착안하였다. 해당 프로젝트에서 React로 프론트엔드를 개발하였으며, 백엔드와의 연결 작업과 AWS를 이용한 프론트엔드 배포 작업  
+    을 수행하였다.
+    
+    기술스택 : Spring, Spring Boot, MySQL, React, AWS, Git
+  
+
 - **[신한은행 대학생 홍보대사 서경강 4팀 웹사이트 ]**
     
     내용 : 이 프로젝트는 신대홍 서경강 4팀의 활동 내역을 홍보하기 위해 개발하였다. React를 이용하여 웹사이트의 뼈대를 개발하였으며, Spring를 이용해 방명록 기능을 구현하였다.
@@ -71,14 +92,6 @@
     
     [배포 LINK] : [신대홍 서경강 4팀](http://shindaehong.com/)
   
-    
-- **[ 멋쟁이농부처럼 ](https://github.com/kimsungmin1011/Like_Farmers)**
-    
-    내용 : 이 프로젝트는 멋쟁이사자처럼 중앙 해커톤에서, 농민들의 경제적 자립을 위한 농민판 Linkedin을 개발하자는 아이디어에서 착안하였다. 해당 프로젝트에서 React로 프론트엔드를 개발하였으며, 백엔드와의 연결 작업과 AWS를 이용한 프론트엔드 배포 작업  
-    을 수행하였다.
-    
-    기술스택 : Android Studio , JAVA
-    
 
 - **[ ToDoList ]**
     
@@ -86,11 +99,6 @@
     
     [Firebase URL] : [TDL](https://my-todo1-81975.web.app/)
     
-    기술스택 : vue.js , firebase
+    기술스택 : Vue.js , firebase
     
-- **[ 모의 투자 프로젝트 with django ](https://github.com/kimsungmin1011/shinhan-alpha)**
-    
-    신한투자증권에서 Django, Vue.js 를 이용하여 모의 투자 MTS(모바일트레이딩시스템)를 개발해 보고, 종목간 위험률 측정을 통한 포트폴리오 고도화 기능을 추가해보았다.
-    
-    기술스택 : Django, vue.js, docker, google cloud
     
