@@ -75,7 +75,7 @@
     
     경제뉴스의 방대한 정보량으로 인해 필요한 정보를 찾는 데 어려움을 겪는 개미 투자자들을 위해 CLOVA Summary를 통해 뉴스를 빠르게 확인할 수 있는 서비스인 '경제뉴스 세줄 요약' AI 프로젝트를 진행하였다.
   
-    기술스택 : Spring, Spring Boot, Django, React, AWS ELB, MySQL, Docker, Google Cloud Platform, Git
+    기술스택: Python, Django, Django Rest Framework, CLOVA Summary, React, AWS EC2, MySQL, Git
 
     
 - **[ 멋쟁이농부처럼 ](https://github.com/kimsungmin1011/Like_Farmers)**
@@ -90,7 +90,7 @@
     
     내용 : 이 프로젝트는 신대홍 서경강 4팀의 활동 내역을 홍보하기 위해 개발하였다. React를 이용하여 웹사이트의 뼈대를 개발하였으며, Spring를 이용해 방명록 기능을 구현하였다.
     
-    기술스택 : React , Spring
+    기술스택 : Spring Boot, React, MySQL, AWS, Git
     
     [배포 LINK] : [신대홍 서경강 4팀](http://shindaehong.com/)
   
