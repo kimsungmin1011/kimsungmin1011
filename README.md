@@ -28,14 +28,3 @@
   <a href="https://solved.ac/tata153/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tata153"/></a>
   <img src = "https://mazandi.herokuapp.com/api?handle=tata153"/>
 </p>
-  
-
-- **[ ToDoList ]**
-    
-    신한투자증권에서 vue.js 를 이용하여 간단한 ToDoList를 firebase와 연동하여 구현.
-    
-    [Firebase URL] : [TDL](https://my-todo1-81975.web.app/)
-    
-    기술스택 : Vue.js , firebase
-    
-    
